@@ -7,7 +7,7 @@ I am currently honing my skills in modern programming languages, frameworks, and
 
 Open to collaborations and opportunities to grow as a professional, I am actively working to expand my expertise in full-stack development and related fields.
 
-Skills: HTML / CSS / JavaScript / React / Python 
+Skills: HTML / CSS / JavaScript / React / Python / Django 
 
 - 🔭 I’m currently working on Many Project 
 - 🌱 I’m currently learning JavaScript & Python 
