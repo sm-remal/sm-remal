@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shah Moazzem Remal.
-![Computer Science & Engineering Student | Aspiring Full-Stack Developer | Crafting Innovative Software Solutions]
-(https://media.licdn.com/dms/image/v2/D4E16AQExzGoynPD43w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723215732612?e=1738800000&v=beta&t=ziJvdCrb_nrb5UPJMiuE2ecceDzn-ILykKQvRPkVYQA)
+Computer Science & Engineering Student | Aspiring Full-Stack Developer | Crafting Innovative Software Solutions
+
 
 I am a dedicated Computer Science and Engineering student passionate about building efficient, scalable, and user-friendly software solutions. My journey is driven by a commitment to mastering full-stack development, encompassing both front-end and back-end technologies.
 
