@@ -1,10 +1,14 @@
-# Hi, I'm **Shah Mozzem Remal** 👋
+<p align="center">
+  <img src="https://i.ibb.co/jv2pMrvq/Banner.png" alt="Banner" width="100%" />
+</p>
+
 
 I am a dedicated Computer Science and Engineering enthusiast passionate about building efficient, scalable, and user-friendly software solutions. My journey is driven by a commitment to mastering full-stack development across both front-end and back-end technologies.
 
 I am continuously honing my skills in modern programming languages, frameworks, and tools to deliver complete end-to-end solutions. With a strong foundation in algorithms, data structures, and system design, I aim to contribute to dynamic and innovative projects that solve real-world problems.
 
 Open to collaborations and new opportunities, I am focused on expanding my expertise in full-stack development and related fields while creating meaningful and impactful digital experiences.
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sm-remal/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
