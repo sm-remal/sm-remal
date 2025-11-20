@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://i.ibb.co/jv2pMrvq/Banner.png" alt="Banner" width="100%" />
 </p>
-
+<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=0D1117&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Shah+Mozzem+Remal;+Full+Stack+Developer;+React+|+Node.js+|+ExpressJS+|+MongoDB;+Building+Scalable+Web+Applications" alt="Typing SVG"/>
+</p>
+<br/>
 
 I am a dedicated Computer Science and Engineering enthusiast passionate about building efficient, scalable, and user-friendly software solutions. My journey is driven by a commitment to mastering full-stack development across both front-end and back-end technologies.
 
