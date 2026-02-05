@@ -38,25 +38,25 @@ Open to collaborations and new opportunities, I am focused on expanding my exper
 ## 🛠️ Technology Stack
 
 ### Languages:
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,)](https://github.com/sm-remal)
 
 ### CSS Frameworks & Libraries:
-![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/sm-remal)
 
 ### JavaScript Frameworks & Libraries:
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/sm-remal)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,)](https://github.com/touhidcodes)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,)](https://github.com/sm-remal)
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase,cloudflare)](https://github.com/touhidcodes)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase,cloudflare)](https://github.com/sm-remal)
 
 ### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/touhidcodes)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/sm-remal)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,git,github,vscode,postman,discord,gmail,npm,powershell,vite)](https://github.com/touhidcodes)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,git,github,vscode,postman,discord,gmail,npm,powershell,vite)](https://github.com/sm-remal)
 
 <br/>
 
