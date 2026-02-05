@@ -38,13 +38,13 @@ Open to collaborations and new opportunities, I am focused on expanding my exper
 ## 🛠️ Technology Stack
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,)](https://github.com/touhidcodes)
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/touhidcodes)
+![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/sm-remal)
 
 ### Database & Model:
 [![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,)](https://github.com/touhidcodes)
